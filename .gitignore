@@ -1,0 +1,16 @@
+# Flutter / Dart
+app_hogar_g4/build/
+app_hogar_g4/.dart_tool/
+app_hogar_g4/.flutter-plugins*
+app_hogar_g4/android/.gradle/
+app_hogar_g4/android/local.properties
+app_hogar_g4/android/app/debug/
+app_hogar_g4/android/app/release/
+*.iml
+.idea/
+# Archivos que no forman parte del proyecto
+wokwi/
+WhatsApp Image*
+PROYECTO IoT.pdf
+Informe técnico — *.docx
+~$*

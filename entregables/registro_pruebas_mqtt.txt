@@ -1,0 +1,16 @@
+   1.4 monitor listo
+   1.6 ONLINE 1
+   1.6 ESTADO t=32 lux=4 pres=0 luz=0 ven=0 auto=0 seg=0 alarma=0 uL=200 uT=28
+  12.3 CMD auto=1
+  12.3 CMD umbLux=3
+  13.0 ESTADO t=32 lux=4 pres=0 luz=0 ven=0 auto=1 seg=0 alarma=0 uL=3 uT=28
+  21.4 ESTADO t=32 lux=4 pres=1 luz=0 ven=1 auto=1 seg=0 alarma=0 uL=3 uT=28
+  31.0 CMD umbLux=200
+  31.4 ESTADO t=32 lux=4 pres=1 luz=1 ven=1 auto=1 seg=0 alarma=0 uL=200 uT=28
+  54.4 EVENTO {"tipo":"temp_alta","msg":"Temperatura alta: 36.0 C","ms":252654}
+  54.7 ESTADO t=36 lux=4 pres=1 luz=1 ven=1 auto=1 seg=0 alarma=0 uL=200 uT=28
+  77.8 ESTADO t=26 lux=4 pres=1 luz=1 ven=0 auto=1 seg=0 alarma=0 uL=200 uT=28
+  99.9 ESTADO t=26 lux=4 pres=0 luz=0 ven=0 auto=1 seg=0 alarma=0 uL=200 uT=28
+ 103.0 ESTADO t=26 lux=4 pres=0 luz=1 ven=0 auto=0 seg=0 alarma=0 uL=200 uT=28
+ 124.9 ESTADO t=26 lux=4 pres=0 luz=0 ven=0 auto=1 seg=0 alarma=0 uL=200 uT=28
+ 229.6 ONLINE 0
