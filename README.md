@@ -15,7 +15,7 @@ Un ESP32 enciende la luz y el ventilador de una habitación solo cuando hay algu
 
 ## Cómo probarlo
 
-1. En [wokwi.com](https://wokwi.com) crear un proyecto ESP32, pegar `sketch.ino` y `diagram.json` y agregar las librerías de `libraries.txt`.
+1. Abrir el proyecto en Wokwi: https://wokwi.com/projects/481437028297190401 (o crear uno nuevo con `sketch.ino`, `diagram.json` y las librerías de `libraries.txt`).
 2. Iniciar la simulación y esperar `[MQTT] Conectado` en el monitor serie.
 3. Instalar `entregables/CasaG4.apk` en un celular Android y abrir la app. Debe decir "En vivo · ESP32 en línea".
 
